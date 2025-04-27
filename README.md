@@ -1,5 +1,6 @@
 # Project 06
-- 
+- 04/27/25
+- Agent 0: a videogame in which you play as a quarantine operative--"Agent 0"--during the apocalypse. You have been recruited by the Maddox Corporation to hunt down and collect samples from the infected to help manufacture a cure from the ever-evolving and rapidly spreading virus. You are our last hope, Agent 0. Do not fail us.
 
 # Implementation (should equal 19 points)
 - on time (+1)
