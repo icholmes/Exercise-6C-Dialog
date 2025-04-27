@@ -1,15 +1,16 @@
-Hello traveler, I have a quest for you.
+Agent 0. Glad you're here. We've been expecting you. 
+Your task is to navigate through the facility and collect samples of the 1-Q84 virus.
 -> choices
 
 == choices
- * Who are you?
-    - - - I am Agneer the Great. I am here to provide you assistance along your journey. You have quite a long road ahead of you.
+ * What are you?
+    - - - I am an Artificial Intelligence system sent from the Maddox Corporation to assist you on your mission.
     -> choices
- * Why am I speaking to a rectangular prism?
-    - - - Why is anything the way it is?
+ * What's the Maddox Corporation?
+    - - - It is a pharamaceutical company dedicated to serving the people. The company has been in search of a cure for the 1-Q84 virus for months now. We've begun sending operatives to infected areas around the country to try to research this seemingly everchanging virus. You are one of those operatives.
     -> choices
- * What quest do you have for me?
-    - - - Collect six quartz stone.
+ * How do I collect samples?
+    - - - By retiring the infected patients in the facility and extracting their plasma.
 
-Return to me with the quartz once you have collected all six.
+Good luck out there, Agent 0. You're our last hope.
     -> END
