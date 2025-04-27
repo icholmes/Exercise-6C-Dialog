@@ -14,7 +14,7 @@
 - probuilder level (+1)
 - handheld gun (+1)
 - clear objective (+2)
-- added music + materials + lighting (+2)
+- added music + materials (+2)
 
 # References
 
